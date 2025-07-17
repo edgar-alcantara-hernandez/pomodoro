@@ -9,7 +9,6 @@ let totalSeconds = sessionAmount * 60;
 const ceros = "00";
 let myInterval; 
 let state = true;
-let pause = false;
 
 
 const appTimer = () => {
